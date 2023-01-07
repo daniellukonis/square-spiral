@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  /* background-color: rgb(151, 82, 216); */
+  background-image: url('bg1.jpg');
+  /* background-repeat: no-repeat; */
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
